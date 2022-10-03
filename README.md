@@ -562,19 +562,44 @@ Day 86:
 - [x] Implement matrix multiplication in preparation for fibbonaci "investigation"
 - [x] Tests for matrix multiplication
 
+Day 87: 
+- [x] Messing around with re-implementing BoyerMoore
+- [x] Try to implement it from scratch and memory.
 
-## Things to implement when finished researching regular algorithms (due to the time they take)
+Day 88:
+- [x] Implemented sliding window to find permutation
+- [x] Added inline UTs for sliding window
 
-- [ ] Ford Fulkerson
-- [ ] Graham scan
-- [ ] Kd-trees
+Day 89:
+- [x] Maximum Sum Subarray of Size K 
+- [x] Added inline UTs 
+- [x] Practice two pointer problems
 
-TODO after all algorithms:
+Day 90:
+- [x] Subarrays with Product Less than a Target
 
-- [ ] Determine complexities
-- [ ] Add docstrings to tests
-- [ ] Burrows−Wheeler transform.
+Day 91:
+- [x] Started learning Intervals, implemented given a set of intervals, merge them.
 
-# Links
+Day 92:
+- [x] Find if given some intervals, a given person can attend all meetings.
+- [x] Add BFS and DFS Kata, to keep both fresh. - A kata usually is something you can practice repeatedly to get quick with implementing certain patterns.
 
-## I will fill this as soon as I finish
+Day 93:
+- [x] Started guidesheet with most common algorithms from Grokking.
+- [x] Started islands problem with DFS. 
+
+Day 94:
+- [x] Added islands for finding islands in a lake, a simple application of DFS with UTs
+- [x] Added a couple of linked-list exercises (reversal, middle) to keep memory fresh, with UTs.
+
+Day 95:
+- [x] Implemented middle of a stream problem with two heaps, found out that maxheaps in python are just negative minheaps
+- [x] Started subsets exercises.
+
+Day 96:
+- [x] Implemented subsets, and permutations the "easy" way.
+- [x] Investigated itertools for easy convenience to methods 
+
+Day 97:
+- [x] Explored some of the collection library in python, a bit of the oscure methods of deque, Counter, defaultdict and more. I already knew them, but getting more proficient with them
